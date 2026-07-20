@@ -26,7 +26,7 @@
 • A large number of employees work at the headquarters instead of remotely.  
 • The average length of employment for terminated employees is around 8 years.  
 • The gender distribution across departments is fairly balanced but there are generally more male than female employees.  
-• A large number of employees come from the state of Ohio.  
+• A large number of employees come from the state of Ohio. 
 • The net change in employees has increased over the years.  
 • The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
 
